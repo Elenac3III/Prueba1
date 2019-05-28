@@ -25,7 +25,7 @@ public class JavaApplication24 {
         int b=reader.nextInt();
         
         suma=a+b;
-        System.out.println("Suma: "+suma);
+        System.out.println("El resultado da: "+suma);
         
 
     }
